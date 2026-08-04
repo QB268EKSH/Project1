@@ -208,27 +208,27 @@ Model selection should balance:
 
 ## References
 
-Akinrinola, O., Addy, W.A., Ajayi-Nifise, A.O., Odeyemi, O. and Falaiye, T. (2024)  
+**Akinrinola, O., Addy, W.A., Ajayi-Nifise, A.O., Odeyemi, O., and Falaiye, T. (2024)**  
 *Predicting stock market movements using neural networks: A review and application study.*  
 GSC Advanced Research and Reviews, 18(2), pp. 297–311.  
-https://doi.org/10.30574/gscarr.2024.18.2.0123
+[https://doi.org/10.30574/gscarr.2024.18.2.0123](https://doi.org/10.30574/gscarr.2024.18.2.0123)
 
-Khan, A.H., Shah, A., Ali, A., Shahid, R., Zahid, Z.U., Sharif, M.U. et al. (2023)  
+**Khan, A.H., Shah, A., Ali, A., Shahid, R., Zahid, Z.U., Sharif, M.U. et al. (2023)**  
 *A performance comparison of machine learning models for stock market prediction with novel investment strategy.*  
 PLoS ONE, 18(9), e0286362.  
-https://doi.org/10.1371/journal.pone.0286362
+[https://doi.org/10.1371/journal.pone.0286362](https://doi.org/10.1371/journal.pone.0286362)
 
-Phan, J. and Chang, H.F. (2024)  
+**Phan, J. and Chang, H.F. (2024)**  
 *Leveraging Fundamental Analysis for Stock Trend Prediction for Profit.*  
 arXiv:2410.03913.  
-https://arxiv.org/abs/2410.03913
+[https://arxiv.org/abs/2410.03913](https://arxiv.org/abs/2410.03913)
 
-Sriram, S. (2020)  
+**Sriram, S. (2020)**  
 *Stock Market Prediction using Logistic Regression Analysis – A Pilot Study.*  
 International Journal for Research in Applied Science and Engineering Technology, 8(10).  
-https://doi.org/10.22214/ijraset.2020.31877
+[https://doi.org/10.22214/ijraset.2020.31877](https://doi.org/10.22214/ijraset.2020.31877)
 
-Usmani, S. and Shamsi, J.A. (2023)  
+**Usmani, S. and Shamsi, J.A. (2023)**  
 *LSTM based stock prediction using weighted and categorized financial news.*  
 PLoS ONE, 18(3), e0282234.  
-https://doi.org/10.1371/journal.pone.0282234
+[https://doi.org/10.1371/journal.pone.0282234](https://doi.org/10.1371/journal.pone.0282234)
