@@ -2,7 +2,7 @@
 
 <img src="Proj1_Logo.png">
 
-# Evaluating the Impact of Model Complexity on Stock Market Direction Prediction
+# Evaluating the Impact of Model Complexity on Stock Market Direction Prediction Using Historical Trading Data
 
 ## Executive Summary
 
@@ -177,7 +177,6 @@ Interpretation:
 Visualisations used:
 
 - moving average charts  
-- correlation heatmaps  
 - model comparison plots  
 - coefficient bar charts  
 
