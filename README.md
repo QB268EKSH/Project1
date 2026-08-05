@@ -1,3 +1,4 @@
+<img src="PROJ1_LOGO.png">
 # Evaluating the Impact of Model Complexity on Stock Market Direction Prediction
 
 ## Executive Summary
