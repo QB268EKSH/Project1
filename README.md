@@ -102,7 +102,7 @@ Temporal ordering was preserved using chronological train/test splits. Walk‑fo
 ## Model Performance
 
 <!-- <p align="center"> -->
-  <img src="/assets/Project1-Fig2.png" alt="Model Accuracy Comparison" width="600">
+  <img src="Project1-Fig1.png" alt="Model Accuracy Comparison" width="600">
   <strong>Figure 2: Model Accuracy Comparison</strong>
 <!-- </p> -->
 <br><br>
