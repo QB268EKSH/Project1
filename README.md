@@ -215,7 +215,7 @@ Model selection should balance:
 **Akinrinola, O., Addy, W.A., Ajayi-Nifise, A.O., Odeyemi, O., and Falaiye, T. (2024)**  
 *Predicting stock market movements using neural networks: A review and application study.*  
 GSC Advanced Research and Reviews, 18(2), pp. 297–311.  
-[https://doi.org/10.30574/gscarr.2024.18.2.0123](https://doi.org/10.30574/gscarr.2024.18.2.0123)
+[https://gscarr.gsconlinepress.com/sites/default/files/fulltext_pdf/GSCARR-2024-0072.pdf](https://gscarr.gsconlinepress.com/sites/default/files/fulltext_pdf/GSCARR-2024-0072.pdf)
 
 **Khan, A.H., Shah, A., Ali, A., Shahid, R., Zahid, Z.U., Sharif, M.U. et al. (2023)**  
 *A performance comparison of machine learning models for stock market prediction with novel investment strategy.*  
