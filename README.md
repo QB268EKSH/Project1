@@ -71,7 +71,7 @@ Additional features were engineered to capture market behaviour:
 These indicators capture short‑term momentum and longer‑term trends.
 
 <!-- <p align="center"> -->
-  <img src="/assets/Project1-Fig1.png" alt="Price Movements and Moving Averages" width="600">
+  <img src="/assets/Proj1Fig1.png" alt="Price Movements and Moving Averages" width="600">
   <strong>Figure 1: Price Movements and Moving Averages</strong>
 <!-- </p> -->
 <br><br>
