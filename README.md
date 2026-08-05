@@ -67,7 +67,7 @@ Additional features were engineered to capture market behaviour:
 These indicators capture short‑term momentum and longer‑term trends.
 
 <!-- <p align="center"> -->
-  <img src="/assets/figures/Project1-Fig1.png" alt="Price Movements and Moving Averages" width="600">
+  <img src="/assets/Project1-Fig1.png" alt="Price Movements and Moving Averages" width="600">
   <strong>Figure 1: Price Movements and Moving Averages</strong>
 <!-- </p> -->
 <br><br>
@@ -98,7 +98,7 @@ Temporal ordering was preserved using chronological train/test splits. Walk‑fo
 ## Model Performance
 
 <!-- <p align="center"> -->
-  <img src="/assets/figures/Project1-Fig2.png" alt="Model Accuracy Comparison" width="600">
+  <img src="/assets/Project1-Fig2.png" alt="Model Accuracy Comparison" width="600">
   <strong>Figure 2: Model Accuracy Comparison</strong>
 <!-- </p> -->
 <br><br>
@@ -122,7 +122,7 @@ Walk‑forward validation results:
 <strong>Table 1: Walk-Forward Validation Results Across Multiple Market Periods</strong>
 <br><br>
 <!-- <p align="center"> -->
-  <img src="/assets/figures/Project1-Fig3.png" alt="Walk-Forward Validation" width="600">
+  <img src="/assets/Project1-Fig3.png" alt="Walk-Forward Validation" width="600">
 
   <strong>Figure 3: Walk-Forward Validation Accuracy Across Market Periods</strong>
 <!-- </p> -->
@@ -156,7 +156,7 @@ Logistic Regression coefficients (rounded):
 <strong>Table 2: Coefficient Values</strong>
 <br><br>
 <!-- <p align="center"> -->
-  <img src="/assets/figures/Project1-Fig4.png" alt="Coefficient Plot" width="600">
+  <img src="/assets/Project1-Fig4.png" alt="Coefficient Plot" width="600">
   <strong>Figure 4: Coefficient Plot</strong>
 <!-- </p> -->
 <br><br>
