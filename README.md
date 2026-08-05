@@ -230,7 +230,7 @@ arXiv:2410.03913.
 **Sriram, S. (2020)**  
 *Stock Market Prediction using Logistic Regression Analysis – A Pilot Study.*  
 International Journal for Research in Applied Science and Engineering Technology, 8(10).  
-[https://doi.org/10.22214/ijraset.2020.31877](https://doi.org/10.22214/ijraset.2020.31877)
+[https://doi.org/10.22214/ijraset.2020.30744](https://doi.org/10.22214/ijraset.2020.30744)
 
 **Usmani, S. and Shamsi, J.A. (2023)**  
 *LSTM based stock prediction using weighted and categorized financial news.*  
